@@ -42,7 +42,7 @@ CellPCA numbers in this repo are the team's **earlier run with robustcov 0.2.0, 
 | `.../cellPCA_code.R` (from the zip) | same | `EF31C30D595BD282B588BDDCF526D9522FDB87426587250FE7A2135EE8447A0D` | read before running: it defines functions only, with no file, system or network access |
 
 ## Refactor equivalence (gamma = 4)
-`setting_check.py` was refactored into `scenarios/`, `metrics.py` and `adapters/` with the same RNG call order.
+`legacy/setting_check.py` (the original script, kept unchanged for reference; it needs robustcov, which is unavailable) was refactored into `scenarios/`, `metrics.py` and `adapters/` with the same RNG call order.
 Medians from this session compared with the earlier fallback table (95% bootstrap CI of the median, 25 runs):
 
 | method | p | now | 95% CI | earlier | within CI |
