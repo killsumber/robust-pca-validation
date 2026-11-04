@@ -1,0 +1,8 @@
+﻿120 jobs, 10 workers
+20 {'method': 'DDC->ROBPCA (RobPy)', 'p': 200, 'gamma': 0, 'seed': 1019, 'angle_deg': 3.6225789500672345, 'seconds': 71.632, 'status': 'ok'}
+40 {'method': 'DDC->ROBPCA (RobPy)', 'p': 20, 'gamma': 2, 'seed': 1024, 'angle_deg': 7.06285577612519, 'seconds': 0.798, 'status': 'ok'}
+60 {'method': 'DDC->ROBPCA (RobPy)', 'p': 20, 'gamma': 4, 'seed': 1017, 'angle_deg': 44.89263403007947, 'seconds': 0.5, 'status': 'ok'}
+80 {'method': 'DDC->ROBPCA (RobPy)', 'p': 200, 'gamma': 4, 'seed': 1015, 'angle_deg': 17.199834459889257, 'seconds': 44.128, 'status': 'ok'}
+100 {'method': 'DDC->ROBPCA (RobPy)', 'p': 200, 'gamma': 4, 'seed': 1019, 'angle_deg': 17.51178494472158, 'seconds': 42.519, 'status': 'ok'}
+120 {'method': 'DDC->ROBPCA (RobPy)', 'p': 200, 'gamma': 6, 'seed': 1024, 'angle_deg': 13.008979305549119, 'seconds': 37.517, 'status': 'ok'}
+done

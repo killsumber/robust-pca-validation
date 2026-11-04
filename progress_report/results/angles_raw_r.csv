@@ -1,0 +1,401 @@
+method,p,gamma,seed,angle_deg,seconds,status
+R cellWise::MacroPCA (reference),20,4.0,1000,55.94961364790036,0.259,ok
+R cellWise::MacroPCA (reference),20,4.0,1001,13.176324456483615,0.259,ok
+R cellWise::MacroPCA (reference),20,4.0,1002,9.75653384515991,0.223,ok
+R cellWise::MacroPCA (reference),20,4.0,1003,28.436727645216067,0.177,ok
+R cellWise::MacroPCA (reference),20,4.0,1004,16.13365802889016,0.119,ok
+R cellWise::MacroPCA (reference),20,4.0,1005,25.554227582666357,0.067,ok
+R cellWise::MacroPCA (reference),20,4.0,1006,17.661063305238944,0.226,ok
+R cellWise::MacroPCA (reference),20,4.0,1007,25.393614752964737,0.116,ok
+R cellWise::MacroPCA (reference),20,4.0,1008,7.966634205293761,0.444,ok
+R cellWise::MacroPCA (reference),20,4.0,1009,13.795959623232447,0.512,ok
+R cellWise::MacroPCA (reference),200,4.0,1000,13.133090708118234,0.916,ok
+R cellWise::MacroPCA (reference),200,4.0,1001,11.054636214975986,0.519,ok
+R cellWise::MacroPCA (reference),200,4.0,1002,12.417664273261195,1.044,ok
+R cellWise::MacroPCA (reference),200,4.0,1003,11.751541159808522,0.961,ok
+R cellWise::MacroPCA (reference),200,4.0,1004,12.208196216986018,0.936,ok
+R cellWise::MacroPCA (reference),200,4.0,1005,10.171962920457391,1.096,ok
+R cellWise::MacroPCA (reference),200,4.0,1006,10.709654067310389,0.928,ok
+R cellWise::MacroPCA (reference),200,4.0,1007,11.387622421785277,0.935,ok
+R cellWise::MacroPCA (reference),200,4.0,1008,17.95742821882441,0.839,ok
+R cellWise::MacroPCA (reference),200,4.0,1009,11.85525416167517,0.9,ok
+R cellWise::MacroPCA (reference),20,6.0,1000,5.668235633512267,0.105,ok
+R cellWise::MacroPCA (reference),20,6.0,1001,5.60986914512326,0.107,ok
+R cellWise::MacroPCA (reference),20,6.0,1002,4.869866113536953,0.137,ok
+R cellWise::MacroPCA (reference),20,6.0,1003,4.091157072958941,0.119,ok
+R cellWise::MacroPCA (reference),20,6.0,1004,6.323122262968268,0.113,ok
+R cellWise::MacroPCA (reference),20,6.0,1005,8.57768223819087,0.271,ok
+R cellWise::MacroPCA (reference),20,6.0,1006,4.553972027283697,0.244,ok
+R cellWise::MacroPCA (reference),20,6.0,1007,5.910662420088987,0.106,ok
+R cellWise::MacroPCA (reference),20,6.0,1008,5.654917760336281,0.061,ok
+R cellWise::MacroPCA (reference),20,6.0,1009,5.337466102574772,0.101,ok
+R cellWise::MacroPCA (reference),200,6.0,1000,4.847666725949281,1.236,ok
+R cellWise::MacroPCA (reference),200,6.0,1001,6.289768601190936,1.027,ok
+R cellWise::MacroPCA (reference),200,6.0,1002,5.623529279437784,1.19,ok
+R cellWise::MacroPCA (reference),200,6.0,1003,5.1968579538362745,1.03,ok
+R cellWise::MacroPCA (reference),200,6.0,1004,7.672599689525285,1.264,ok
+R cellWise::MacroPCA (reference),200,6.0,1005,5.2846682146700275,1.074,ok
+R cellWise::MacroPCA (reference),200,6.0,1006,5.111305216116059,1.123,ok
+R cellWise::MacroPCA (reference),200,6.0,1007,5.183853998574791,1.146,ok
+R cellWise::MacroPCA (reference),200,6.0,1008,6.426592306389275,0.74,ok
+R cellWise::MacroPCA (reference),200,6.0,1009,4.94787790136952,1.395,ok
+"R cellPCA, authors' code (reference)",20,4.0,1000,36.2375792591705,5.146,ok
+"R cellPCA, authors' code (reference)",20,4.0,1001,5.71923568193981,3.119,ok
+"R cellPCA, authors' code (reference)",20,4.0,1002,3.9181079263710807,3.485,ok
+"R cellPCA, authors' code (reference)",20,4.0,1003,27.598859041726197,3.93,ok
+"R cellPCA, authors' code (reference)",20,4.0,1004,6.269652321552674,2.801,ok
+"R cellPCA, authors' code (reference)",20,4.0,1005,22.618288815552226,2.349,ok
+"R cellPCA, authors' code (reference)",20,4.0,1006,12.018547104381549,2.263,ok
+"R cellPCA, authors' code (reference)",20,4.0,1007,70.78481104917105,5.904,ok
+"R cellPCA, authors' code (reference)",20,4.0,1008,4.685500691525026,2.933,ok
+"R cellPCA, authors' code (reference)",20,4.0,1009,9.499494509246214,2.969,ok
+"R cellPCA, authors' code (reference)",200,4.0,1000,7.219648968622156,16.604,ok
+"R cellPCA, authors' code (reference)",200,4.0,1001,5.611735458882075,17.309,ok
+"R cellPCA, authors' code (reference)",200,4.0,1002,4.955352744369208,31.077,ok
+"R cellPCA, authors' code (reference)",200,4.0,1003,6.63205846324704,20.905,ok
+"R cellPCA, authors' code (reference)",200,4.0,1004,5.162013938253455,25.466,ok
+"R cellPCA, authors' code (reference)",200,4.0,1005,9.385808671644197,21.403,ok
+"R cellPCA, authors' code (reference)",200,4.0,1006,5.852687804213326,28.725,ok
+"R cellPCA, authors' code (reference)",200,4.0,1007,6.0618546715217425,24.612,ok
+"R cellPCA, authors' code (reference)",200,4.0,1008,10.264450014641774,27.282,ok
+"R cellPCA, authors' code (reference)",200,4.0,1009,5.118407156220341,24.972,ok
+"R cellPCA, authors' code (reference)",20,6.0,1000,4.616397449403434,4.147,ok
+"R cellPCA, authors' code (reference)",20,6.0,1001,4.480164182904167,3.639,ok
+"R cellPCA, authors' code (reference)",20,6.0,1002,4.051718824328356,4.506,ok
+"R cellPCA, authors' code (reference)",20,6.0,1003,3.6463289327486117,3.849,ok
+"R cellPCA, authors' code (reference)",20,6.0,1004,4.820126465920223,4.237,ok
+"R cellPCA, authors' code (reference)",20,6.0,1005,3.962615918880088,4.691,ok
+"R cellPCA, authors' code (reference)",20,6.0,1006,3.2986279425733462,4.874,ok
+"R cellPCA, authors' code (reference)",20,6.0,1007,4.239759740446744,4.735,ok
+"R cellPCA, authors' code (reference)",20,6.0,1008,4.488436556948384,3.167,ok
+"R cellPCA, authors' code (reference)",20,6.0,1009,3.389326280828013,3.42,ok
+"R cellPCA, authors' code (reference)",200,6.0,1000,3.6401332319731106,27.299,ok
+"R cellPCA, authors' code (reference)",200,6.0,1001,3.523947678717594,20.938,ok
+"R cellPCA, authors' code (reference)",200,6.0,1002,3.793030014262232,24.433,ok
+"R cellPCA, authors' code (reference)",200,6.0,1003,5.284455769648165,23.785,ok
+"R cellPCA, authors' code (reference)",200,6.0,1004,4.3205617444199955,18.349,ok
+"R cellPCA, authors' code (reference)",200,6.0,1005,3.8139891552690495,22.598,ok
+"R cellPCA, authors' code (reference)",200,6.0,1006,3.9046220324354937,23.654,ok
+"R cellPCA, authors' code (reference)",200,6.0,1007,3.987875651188762,27.76,ok
+"R cellPCA, authors' code (reference)",200,6.0,1008,4.211015032023047,14.015,ok
+"R cellPCA, authors' code (reference)",200,6.0,1009,3.77104285116206,17.17,ok
+R cellWise::MacroPCA (reference),20,0.0,1000,4.172701578056878,0.061,ok
+R cellWise::MacroPCA (reference),20,0.0,1001,5.012332948831257,0.123,ok
+R cellWise::MacroPCA (reference),20,0.0,1002,4.367581837633127,0.127,ok
+R cellWise::MacroPCA (reference),20,0.0,1003,4.51466773630771,0.14,ok
+R cellWise::MacroPCA (reference),20,0.0,1004,4.6395439126503195,0.062,ok
+R cellWise::MacroPCA (reference),20,0.0,1005,3.544998789728763,0.06,ok
+R cellWise::MacroPCA (reference),20,0.0,1006,2.957112841888995,0.176,ok
+R cellWise::MacroPCA (reference),20,0.0,1007,4.781046583286307,0.04,ok
+R cellWise::MacroPCA (reference),20,0.0,1008,4.955839935303765,0.041,ok
+R cellWise::MacroPCA (reference),20,0.0,1009,3.647329646603281,0.038,ok
+R cellWise::MacroPCA (reference),200,0.0,1000,3.6403233161704436,0.585,ok
+R cellWise::MacroPCA (reference),200,0.0,1001,2.9786521062585565,0.539,ok
+R cellWise::MacroPCA (reference),200,0.0,1002,3.695911442342413,0.462,ok
+R cellWise::MacroPCA (reference),200,0.0,1003,3.2680187383370827,0.474,ok
+R cellWise::MacroPCA (reference),200,0.0,1004,2.8701679328341476,0.449,ok
+R cellWise::MacroPCA (reference),200,0.0,1005,3.8865570911523033,0.47,ok
+R cellWise::MacroPCA (reference),200,0.0,1006,3.991277783837017,0.395,ok
+R cellWise::MacroPCA (reference),200,0.0,1007,3.9528832652901036,0.432,ok
+R cellWise::MacroPCA (reference),200,0.0,1008,4.381569545435917,0.395,ok
+R cellWise::MacroPCA (reference),200,0.0,1009,3.5042588093280593,0.525,ok
+R cellWise::MacroPCA (reference),20,2.0,1000,13.228732423786052,0.04,ok
+R cellWise::MacroPCA (reference),20,2.0,1001,11.728987305860624,0.046,ok
+R cellWise::MacroPCA (reference),20,2.0,1002,10.160904650003955,0.04,ok
+R cellWise::MacroPCA (reference),20,2.0,1003,9.137213299645229,0.037,ok
+R cellWise::MacroPCA (reference),20,2.0,1004,10.500404304659096,0.041,ok
+R cellWise::MacroPCA (reference),20,2.0,1005,8.787702119524525,0.042,ok
+R cellWise::MacroPCA (reference),20,2.0,1006,8.825964183036398,0.055,ok
+R cellWise::MacroPCA (reference),20,2.0,1007,13.096440142910437,0.054,ok
+R cellWise::MacroPCA (reference),20,2.0,1008,11.668978333893019,0.037,ok
+R cellWise::MacroPCA (reference),20,2.0,1009,11.169420434762301,0.038,ok
+R cellWise::MacroPCA (reference),200,2.0,1000,8.739462649647578,0.33,ok
+R cellWise::MacroPCA (reference),200,2.0,1001,7.109284399434093,0.327,ok
+R cellWise::MacroPCA (reference),200,2.0,1002,7.7246585507422285,0.318,ok
+R cellWise::MacroPCA (reference),200,2.0,1003,6.712692585630408,0.336,ok
+R cellWise::MacroPCA (reference),200,2.0,1004,7.238341819260212,0.319,ok
+R cellWise::MacroPCA (reference),200,2.0,1005,9.310359477411,0.311,ok
+R cellWise::MacroPCA (reference),200,2.0,1006,8.938877342521002,0.317,ok
+R cellWise::MacroPCA (reference),200,2.0,1007,8.661266766926182,0.303,ok
+R cellWise::MacroPCA (reference),200,2.0,1008,10.11109736569015,0.326,ok
+R cellWise::MacroPCA (reference),200,2.0,1009,8.383368224040508,0.334,ok
+"R cellPCA, authors' code (reference)",20,0.0,1000,3.892325841923881,1.245,ok
+"R cellPCA, authors' code (reference)",20,0.0,1001,4.894707268021286,1.295,ok
+"R cellPCA, authors' code (reference)",20,0.0,1002,4.0540019643301815,1.34,ok
+"R cellPCA, authors' code (reference)",20,0.0,1003,3.7207443464241376,1.295,ok
+"R cellPCA, authors' code (reference)",20,0.0,1004,4.611344710541196,1.493,ok
+"R cellPCA, authors' code (reference)",20,0.0,1005,3.6834760110630778,1.35,ok
+"R cellPCA, authors' code (reference)",20,0.0,1006,2.6064979263743515,0.894,ok
+"R cellPCA, authors' code (reference)",20,0.0,1007,4.326761913962429,0.833,ok
+"R cellPCA, authors' code (reference)",20,0.0,1008,4.906447464481133,0.758,ok
+"R cellPCA, authors' code (reference)",20,0.0,1009,3.226726001660231,0.918,ok
+"R cellPCA, authors' code (reference)",200,0.0,1000,3.2315370071378924,4.811,ok
+"R cellPCA, authors' code (reference)",200,0.0,1001,2.8381593689156515,4.836,ok
+"R cellPCA, authors' code (reference)",200,0.0,1002,3.372192200455604,4.835,ok
+"R cellPCA, authors' code (reference)",200,0.0,1003,3.195807077845989,4.866,ok
+"R cellPCA, authors' code (reference)",200,0.0,1004,2.7162443108092056,4.782,ok
+"R cellPCA, authors' code (reference)",200,0.0,1005,3.567968260511441,4.841,ok
+"R cellPCA, authors' code (reference)",200,0.0,1006,3.533962619553469,4.751,ok
+"R cellPCA, authors' code (reference)",200,0.0,1007,3.151183999083319,4.929,ok
+"R cellPCA, authors' code (reference)",200,0.0,1008,3.582167788058919,4.969,ok
+"R cellPCA, authors' code (reference)",200,0.0,1009,3.335673068931479,4.893,ok
+"R cellPCA, authors' code (reference)",20,2.0,1000,11.34297624689067,0.946,ok
+"R cellPCA, authors' code (reference)",20,2.0,1001,7.605678069974484,2.508,ok
+"R cellPCA, authors' code (reference)",20,2.0,1002,8.245796165107725,2.513,ok
+"R cellPCA, authors' code (reference)",20,2.0,1003,6.74991703026801,1.6,ok
+"R cellPCA, authors' code (reference)",20,2.0,1004,7.012949003207395,1.52,ok
+"R cellPCA, authors' code (reference)",20,2.0,1005,9.618585471593937,1.128,ok
+"R cellPCA, authors' code (reference)",20,2.0,1006,7.738149471273739,1.327,ok
+"R cellPCA, authors' code (reference)",20,2.0,1007,9.329068452658797,1.012,ok
+"R cellPCA, authors' code (reference)",20,2.0,1008,11.775277799770372,1.067,ok
+"R cellPCA, authors' code (reference)",20,2.0,1009,7.580057197282797,1.111,ok
+"R cellPCA, authors' code (reference)",200,2.0,1000,6.189206591300229,5.37,ok
+"R cellPCA, authors' code (reference)",200,2.0,1001,5.77992373070879,4.865,ok
+"R cellPCA, authors' code (reference)",200,2.0,1002,5.174431732006148,4.967,ok
+"R cellPCA, authors' code (reference)",200,2.0,1003,5.067831375682922,4.931,ok
+"R cellPCA, authors' code (reference)",200,2.0,1004,6.162821051186417,5.084,ok
+"R cellPCA, authors' code (reference)",200,2.0,1005,7.46802424056744,5.149,ok
+"R cellPCA, authors' code (reference)",200,2.0,1006,7.2553330835944525,4.208,ok
+"R cellPCA, authors' code (reference)",200,2.0,1007,6.0962981151170474,4.655,ok
+"R cellPCA, authors' code (reference)",200,2.0,1008,7.5235909573369115,5.461,ok
+"R cellPCA, authors' code (reference)",200,2.0,1009,5.244949398242731,4.991,ok
+R cellWise::MacroPCA (reference),20,4.0,1010,39.940717834355226,0.115,ok
+R cellWise::MacroPCA (reference),20,4.0,1011,11.661554051044263,0.112,ok
+R cellWise::MacroPCA (reference),20,4.0,1012,38.241073673243115,0.124,ok
+R cellWise::MacroPCA (reference),20,4.0,1013,13.998984470163835,0.109,ok
+R cellWise::MacroPCA (reference),20,4.0,1014,21.43550797628814,0.047,ok
+R cellWise::MacroPCA (reference),20,4.0,1015,29.33160468912925,0.123,ok
+R cellWise::MacroPCA (reference),20,4.0,1016,26.06726979842294,0.047,ok
+R cellWise::MacroPCA (reference),20,4.0,1017,42.52435833756557,0.041,ok
+R cellWise::MacroPCA (reference),20,4.0,1018,10.451428450667722,0.041,ok
+R cellWise::MacroPCA (reference),20,4.0,1019,33.395793760105505,0.04,ok
+R cellWise::MacroPCA (reference),20,4.0,1020,17.302796740304746,0.109,ok
+R cellWise::MacroPCA (reference),20,4.0,1021,14.704057011475594,0.188,ok
+R cellWise::MacroPCA (reference),20,4.0,1022,27.584997535431686,0.042,ok
+R cellWise::MacroPCA (reference),20,4.0,1023,25.245954249258475,0.167,ok
+R cellWise::MacroPCA (reference),20,4.0,1024,13.829397892296624,0.041,ok
+R cellWise::MacroPCA (reference),200,4.0,1010,16.781656613991466,0.299,ok
+R cellWise::MacroPCA (reference),200,4.0,1011,16.51940125973644,0.428,ok
+R cellWise::MacroPCA (reference),200,4.0,1012,15.259324216876122,0.301,ok
+R cellWise::MacroPCA (reference),200,4.0,1013,14.312172767469601,0.304,ok
+R cellWise::MacroPCA (reference),200,4.0,1014,14.442983663667997,0.307,ok
+R cellWise::MacroPCA (reference),200,4.0,1015,14.01231485457256,0.302,ok
+R cellWise::MacroPCA (reference),200,4.0,1016,11.942893575907156,0.348,ok
+R cellWise::MacroPCA (reference),200,4.0,1017,13.314374627786819,0.499,ok
+R cellWise::MacroPCA (reference),200,4.0,1018,13.267381298310882,0.356,ok
+R cellWise::MacroPCA (reference),200,4.0,1019,10.988659983035081,0.358,ok
+R cellWise::MacroPCA (reference),200,4.0,1020,11.892587532389562,0.362,ok
+R cellWise::MacroPCA (reference),200,4.0,1021,12.993670693050165,0.366,ok
+R cellWise::MacroPCA (reference),200,4.0,1022,12.019346476811998,0.354,ok
+R cellWise::MacroPCA (reference),200,4.0,1023,15.075145001157068,0.329,ok
+R cellWise::MacroPCA (reference),200,4.0,1024,8.482598690038955,0.357,ok
+R cellWise::MacroPCA (reference),20,6.0,1010,4.169261886406256,0.041,ok
+R cellWise::MacroPCA (reference),20,6.0,1011,11.440187443127243,0.036,ok
+R cellWise::MacroPCA (reference),20,6.0,1012,8.05589002470426,0.035,ok
+R cellWise::MacroPCA (reference),20,6.0,1013,6.86435585236067,0.036,ok
+R cellWise::MacroPCA (reference),20,6.0,1014,6.414170842031533,0.035,ok
+R cellWise::MacroPCA (reference),20,6.0,1015,5.494164781865676,0.047,ok
+R cellWise::MacroPCA (reference),20,6.0,1016,5.28972294075275,0.036,ok
+R cellWise::MacroPCA (reference),20,6.0,1017,4.841748056827009,0.042,ok
+R cellWise::MacroPCA (reference),20,6.0,1018,5.665810818712866,0.039,ok
+R cellWise::MacroPCA (reference),20,6.0,1019,6.2833301900967315,0.046,ok
+R cellWise::MacroPCA (reference),20,6.0,1020,9.722690117273327,0.051,ok
+R cellWise::MacroPCA (reference),20,6.0,1021,5.895013101501282,0.037,ok
+R cellWise::MacroPCA (reference),20,6.0,1022,7.078671462787273,0.04,ok
+R cellWise::MacroPCA (reference),20,6.0,1023,4.47674726991072,0.041,ok
+R cellWise::MacroPCA (reference),20,6.0,1024,4.414197297726516,0.037,ok
+R cellWise::MacroPCA (reference),200,6.0,1010,5.5736303720453035,0.42,ok
+R cellWise::MacroPCA (reference),200,6.0,1011,5.395627960475787,0.405,ok
+R cellWise::MacroPCA (reference),200,6.0,1012,13.86317841709903,0.416,ok
+R cellWise::MacroPCA (reference),200,6.0,1013,5.102500054491001,0.404,ok
+R cellWise::MacroPCA (reference),200,6.0,1014,6.118862447505374,0.407,ok
+R cellWise::MacroPCA (reference),200,6.0,1015,6.0541554147958845,0.391,ok
+R cellWise::MacroPCA (reference),200,6.0,1016,5.483611499842516,0.418,ok
+R cellWise::MacroPCA (reference),200,6.0,1017,5.496051886528425,0.415,ok
+R cellWise::MacroPCA (reference),200,6.0,1018,5.904240852837837,0.407,ok
+R cellWise::MacroPCA (reference),200,6.0,1019,5.500034583442584,0.442,ok
+R cellWise::MacroPCA (reference),200,6.0,1020,6.769962157961475,0.421,ok
+R cellWise::MacroPCA (reference),200,6.0,1021,4.882150096344161,0.439,ok
+R cellWise::MacroPCA (reference),200,6.0,1022,4.820039706022103,0.414,ok
+R cellWise::MacroPCA (reference),200,6.0,1023,5.168037735689737,0.419,ok
+R cellWise::MacroPCA (reference),200,6.0,1024,5.594041184031734,0.414,ok
+R cellWise::MacroPCA (reference),20,0.0,1010,3.665671405899301,0.043,ok
+R cellWise::MacroPCA (reference),20,0.0,1011,3.157348152292479,0.04,ok
+R cellWise::MacroPCA (reference),20,0.0,1012,4.522314439369122,0.042,ok
+R cellWise::MacroPCA (reference),20,0.0,1013,5.096671124425481,0.043,ok
+R cellWise::MacroPCA (reference),20,0.0,1014,3.1224442468991382,0.038,ok
+R cellWise::MacroPCA (reference),20,0.0,1015,3.506310734614372,0.052,ok
+R cellWise::MacroPCA (reference),20,0.0,1016,3.9390583992510675,0.042,ok
+R cellWise::MacroPCA (reference),20,0.0,1017,2.7912645397796987,0.046,ok
+R cellWise::MacroPCA (reference),20,0.0,1018,3.669057230907404,0.045,ok
+R cellWise::MacroPCA (reference),20,0.0,1019,3.9593311717900432,0.045,ok
+R cellWise::MacroPCA (reference),20,0.0,1020,4.030431221662686,0.036,ok
+R cellWise::MacroPCA (reference),20,0.0,1021,4.103981491474056,0.04,ok
+R cellWise::MacroPCA (reference),20,0.0,1022,5.199300921212405,0.047,ok
+R cellWise::MacroPCA (reference),20,0.0,1023,3.7638227772233117,0.038,ok
+R cellWise::MacroPCA (reference),20,0.0,1024,3.217512772004983,0.043,ok
+R cellWise::MacroPCA (reference),200,0.0,1010,3.4725285640315597,0.419,ok
+R cellWise::MacroPCA (reference),200,0.0,1011,3.5648013188320022,0.411,ok
+R cellWise::MacroPCA (reference),200,0.0,1012,3.6833851575775576,0.415,ok
+R cellWise::MacroPCA (reference),200,0.0,1013,3.3316280021681917,0.412,ok
+R cellWise::MacroPCA (reference),200,0.0,1014,4.399570379493622,0.435,ok
+R cellWise::MacroPCA (reference),200,0.0,1015,3.533375016964562,0.415,ok
+R cellWise::MacroPCA (reference),200,0.0,1016,4.257392952575591,0.416,ok
+R cellWise::MacroPCA (reference),200,0.0,1017,3.318765602395111,0.423,ok
+R cellWise::MacroPCA (reference),200,0.0,1018,3.2205511239400764,0.425,ok
+R cellWise::MacroPCA (reference),200,0.0,1019,4.007086116087507,0.418,ok
+R cellWise::MacroPCA (reference),200,0.0,1020,3.708825985844706,0.41,ok
+R cellWise::MacroPCA (reference),200,0.0,1021,3.500771504853117,0.414,ok
+R cellWise::MacroPCA (reference),200,0.0,1022,3.618783782896379,0.401,ok
+R cellWise::MacroPCA (reference),200,0.0,1023,3.5817715096069005,0.38,ok
+R cellWise::MacroPCA (reference),200,0.0,1024,4.138097905549293,0.38,ok
+R cellWise::MacroPCA (reference),20,2.0,1010,16.351136013266867,0.039,ok
+R cellWise::MacroPCA (reference),20,2.0,1011,10.252384694629892,0.04,ok
+R cellWise::MacroPCA (reference),20,2.0,1012,12.271109161158334,0.043,ok
+R cellWise::MacroPCA (reference),20,2.0,1013,10.011716294451897,0.04,ok
+R cellWise::MacroPCA (reference),20,2.0,1014,14.604049103087073,0.031,ok
+R cellWise::MacroPCA (reference),20,2.0,1015,9.82760599906065,0.032,ok
+R cellWise::MacroPCA (reference),20,2.0,1016,10.173476714670134,0.051,ok
+R cellWise::MacroPCA (reference),20,2.0,1017,9.37712889737481,0.042,ok
+R cellWise::MacroPCA (reference),20,2.0,1018,9.767464391713204,0.049,ok
+R cellWise::MacroPCA (reference),20,2.0,1019,14.408513731780605,0.036,ok
+R cellWise::MacroPCA (reference),20,2.0,1020,9.094410640686485,0.037,ok
+R cellWise::MacroPCA (reference),20,2.0,1021,11.879668096481415,0.043,ok
+R cellWise::MacroPCA (reference),20,2.0,1022,16.801442488359925,0.04,ok
+R cellWise::MacroPCA (reference),20,2.0,1023,13.882094318643064,0.045,ok
+R cellWise::MacroPCA (reference),20,2.0,1024,9.887879765699271,0.04,ok
+R cellWise::MacroPCA (reference),200,2.0,1010,7.1435132059173645,0.315,ok
+R cellWise::MacroPCA (reference),200,2.0,1011,8.214058028061897,0.321,ok
+R cellWise::MacroPCA (reference),200,2.0,1012,9.309040210920678,0.312,ok
+R cellWise::MacroPCA (reference),200,2.0,1013,8.057915547650106,0.363,ok
+R cellWise::MacroPCA (reference),200,2.0,1014,9.476435387807907,0.368,ok
+R cellWise::MacroPCA (reference),200,2.0,1015,7.348347666056448,0.363,ok
+R cellWise::MacroPCA (reference),200,2.0,1016,9.764652376775873,0.305,ok
+R cellWise::MacroPCA (reference),200,2.0,1017,8.40795781037841,0.298,ok
+R cellWise::MacroPCA (reference),200,2.0,1018,7.468575109907873,0.314,ok
+R cellWise::MacroPCA (reference),200,2.0,1019,9.109267736941435,0.358,ok
+R cellWise::MacroPCA (reference),200,2.0,1020,9.25624971843121,0.342,ok
+R cellWise::MacroPCA (reference),200,2.0,1021,8.718544272464781,0.374,ok
+R cellWise::MacroPCA (reference),200,2.0,1022,8.269417542383852,0.321,ok
+R cellWise::MacroPCA (reference),200,2.0,1023,8.793447270611198,0.301,ok
+R cellWise::MacroPCA (reference),200,2.0,1024,9.194780038804248,0.285,ok
+"R cellPCA, authors' code (reference)",20,4.0,1010,29.962761750452586,1.732,ok
+"R cellPCA, authors' code (reference)",20,4.0,1011,16.536022296162606,1.632,ok
+"R cellPCA, authors' code (reference)",20,4.0,1012,34.690095330056224,1.61,ok
+"R cellPCA, authors' code (reference)",20,4.0,1013,7.535982785205718,1.396,ok
+"R cellPCA, authors' code (reference)",20,4.0,1014,15.688572770463937,1.609,ok
+"R cellPCA, authors' code (reference)",20,4.0,1015,30.33700255594723,1.657,ok
+"R cellPCA, authors' code (reference)",20,4.0,1016,24.3507096300165,1.247,ok
+"R cellPCA, authors' code (reference)",20,4.0,1017,24.38561227091151,1.357,ok
+"R cellPCA, authors' code (reference)",20,4.0,1018,4.297118316982106,0.811,ok
+"R cellPCA, authors' code (reference)",20,4.0,1019,20.802988397079872,1.117,ok
+"R cellPCA, authors' code (reference)",20,4.0,1020,5.316161058646077,0.955,ok
+"R cellPCA, authors' code (reference)",20,4.0,1021,6.674546846698052,1.11,ok
+"R cellPCA, authors' code (reference)",20,4.0,1022,32.40141354224911,1.135,ok
+"R cellPCA, authors' code (reference)",20,4.0,1023,34.253749540500166,1.465,ok
+"R cellPCA, authors' code (reference)",20,4.0,1024,14.493507482545835,1.056,ok
+"R cellPCA, authors' code (reference)",200,4.0,1010,7.457636187615405,5.505,ok
+"R cellPCA, authors' code (reference)",200,4.0,1011,7.07850321597683,5.366,ok
+"R cellPCA, authors' code (reference)",200,4.0,1012,8.27462632487984,5.375,ok
+"R cellPCA, authors' code (reference)",200,4.0,1013,7.70360823443448,5.735,ok
+"R cellPCA, authors' code (reference)",200,4.0,1014,7.394957450602306,5.659,ok
+"R cellPCA, authors' code (reference)",200,4.0,1015,8.793597920546048,5.354,ok
+"R cellPCA, authors' code (reference)",200,4.0,1016,5.163762941508409,5.18,ok
+"R cellPCA, authors' code (reference)",200,4.0,1017,7.822901396066698,5.192,ok
+"R cellPCA, authors' code (reference)",200,4.0,1018,6.711701357267449,5.324,ok
+"R cellPCA, authors' code (reference)",200,4.0,1019,7.656733896452125,5.391,ok
+"R cellPCA, authors' code (reference)",200,4.0,1020,5.653222916818291,5.245,ok
+"R cellPCA, authors' code (reference)",200,4.0,1021,6.605014392174325,5.327,ok
+"R cellPCA, authors' code (reference)",200,4.0,1022,7.01802055181125,5.025,ok
+"R cellPCA, authors' code (reference)",200,4.0,1023,7.140171300670086,5.212,ok
+"R cellPCA, authors' code (reference)",200,4.0,1024,4.993843977116961,5.208,ok
+"R cellPCA, authors' code (reference)",20,6.0,1010,4.22281095006063,0.937,ok
+"R cellPCA, authors' code (reference)",20,6.0,1011,5.603369434929059,0.929,ok
+"R cellPCA, authors' code (reference)",20,6.0,1012,3.4324680864019808,0.744,ok
+"R cellPCA, authors' code (reference)",20,6.0,1013,5.383173893405252,1.194,ok
+"R cellPCA, authors' code (reference)",20,6.0,1014,3.6681186049451298,0.97,ok
+"R cellPCA, authors' code (reference)",20,6.0,1015,3.717230900244809,0.932,ok
+"R cellPCA, authors' code (reference)",20,6.0,1016,3.197908142113944,0.869,ok
+"R cellPCA, authors' code (reference)",20,6.0,1017,2.8655629436862795,0.79,ok
+"R cellPCA, authors' code (reference)",20,6.0,1018,3.6357482263772223,0.831,ok
+"R cellPCA, authors' code (reference)",20,6.0,1019,4.471258359064246,0.794,ok
+"R cellPCA, authors' code (reference)",20,6.0,1020,26.23356713683086,2.031,ok
+"R cellPCA, authors' code (reference)",20,6.0,1021,4.239945507350932,0.825,ok
+"R cellPCA, authors' code (reference)",20,6.0,1022,4.426837384439094,0.74,ok
+"R cellPCA, authors' code (reference)",20,6.0,1023,3.693169709896792,0.814,ok
+"R cellPCA, authors' code (reference)",20,6.0,1024,3.337193100016171,0.756,ok
+"R cellPCA, authors' code (reference)",200,6.0,1010,3.4897392764272674,5.098,ok
+"R cellPCA, authors' code (reference)",200,6.0,1011,3.568520229590789,4.975,ok
+"R cellPCA, authors' code (reference)",200,6.0,1012,5.556264520688904,5.126,ok
+"R cellPCA, authors' code (reference)",200,6.0,1013,3.7040306961203497,5.293,ok
+"R cellPCA, authors' code (reference)",200,6.0,1014,4.30683865659441,5.229,ok
+"R cellPCA, authors' code (reference)",200,6.0,1015,3.737864258716218,5.148,ok
+"R cellPCA, authors' code (reference)",200,6.0,1016,4.226608467751859,5.283,ok
+"R cellPCA, authors' code (reference)",200,6.0,1017,3.5430440164223236,5.047,ok
+"R cellPCA, authors' code (reference)",200,6.0,1018,3.572421680289799,5.054,ok
+"R cellPCA, authors' code (reference)",200,6.0,1019,3.9393264136855297,5.112,ok
+"R cellPCA, authors' code (reference)",200,6.0,1020,4.11276872831848,5.028,ok
+"R cellPCA, authors' code (reference)",200,6.0,1021,3.7344153428824916,5.026,ok
+"R cellPCA, authors' code (reference)",200,6.0,1022,3.675274398220142,4.88,ok
+"R cellPCA, authors' code (reference)",200,6.0,1023,3.4553506230754376,4.794,ok
+"R cellPCA, authors' code (reference)",200,6.0,1024,3.9261879331943503,5.068,ok
+"R cellPCA, authors' code (reference)",20,0.0,1010,3.209497777418647,0.905,ok
+"R cellPCA, authors' code (reference)",20,0.0,1011,3.377638807243915,1.035,ok
+"R cellPCA, authors' code (reference)",20,0.0,1012,2.5046872420973503,0.85,ok
+"R cellPCA, authors' code (reference)",20,0.0,1013,4.499663470072602,0.791,ok
+"R cellPCA, authors' code (reference)",20,0.0,1014,3.398982711446711,0.919,ok
+"R cellPCA, authors' code (reference)",20,0.0,1015,3.4645240182315447,0.857,ok
+"R cellPCA, authors' code (reference)",20,0.0,1016,3.613022505648273,0.799,ok
+"R cellPCA, authors' code (reference)",20,0.0,1017,2.633114477549773,1.162,ok
+"R cellPCA, authors' code (reference)",20,0.0,1018,3.5561167449902094,0.85,ok
+"R cellPCA, authors' code (reference)",20,0.0,1019,3.3481196805615974,0.953,ok
+"R cellPCA, authors' code (reference)",20,0.0,1020,3.527419048830964,1.269,ok
+"R cellPCA, authors' code (reference)",20,0.0,1021,3.793152971274129,1.377,ok
+"R cellPCA, authors' code (reference)",20,0.0,1022,4.6573451328079205,0.779,ok
+"R cellPCA, authors' code (reference)",20,0.0,1023,3.565053347152796,1.326,ok
+"R cellPCA, authors' code (reference)",20,0.0,1024,3.1071128235546066,1.031,ok
+"R cellPCA, authors' code (reference)",200,0.0,1010,3.1921748407476414,4.932,ok
+"R cellPCA, authors' code (reference)",200,0.0,1011,3.1623437947173074,5.089,ok
+"R cellPCA, authors' code (reference)",200,0.0,1012,3.377283635972585,4.849,ok
+"R cellPCA, authors' code (reference)",200,0.0,1013,3.3010911616943144,4.807,ok
+"R cellPCA, authors' code (reference)",200,0.0,1014,3.8782326297534686,4.863,ok
+"R cellPCA, authors' code (reference)",200,0.0,1015,3.1474682184640184,4.775,ok
+"R cellPCA, authors' code (reference)",200,0.0,1016,3.633615226255123,4.846,ok
+"R cellPCA, authors' code (reference)",200,0.0,1017,3.1510219950058156,4.914,ok
+"R cellPCA, authors' code (reference)",200,0.0,1018,3.0205815166404952,5.039,ok
+"R cellPCA, authors' code (reference)",200,0.0,1019,3.3791701737709094,5.0,ok
+"R cellPCA, authors' code (reference)",200,0.0,1020,3.249283674915664,4.811,ok
+"R cellPCA, authors' code (reference)",200,0.0,1021,3.43682141771883,4.888,ok
+"R cellPCA, authors' code (reference)",200,0.0,1022,3.372977181159181,5.28,ok
+"R cellPCA, authors' code (reference)",200,0.0,1023,3.072601625182016,5.275,ok
+"R cellPCA, authors' code (reference)",200,0.0,1024,3.4597243940428375,5.431,ok
+"R cellPCA, authors' code (reference)",20,2.0,1010,12.858459841385747,2.269,ok
+"R cellPCA, authors' code (reference)",20,2.0,1011,8.47451484611985,0.934,ok
+"R cellPCA, authors' code (reference)",20,2.0,1012,11.418753614830692,1.006,ok
+"R cellPCA, authors' code (reference)",20,2.0,1013,11.674077436433265,1.286,ok
+"R cellPCA, authors' code (reference)",20,2.0,1014,8.986921610573317,1.562,ok
+"R cellPCA, authors' code (reference)",20,2.0,1015,8.992256423240143,0.948,ok
+"R cellPCA, authors' code (reference)",20,2.0,1016,8.3126418849872,1.424,ok
+"R cellPCA, authors' code (reference)",20,2.0,1017,7.2821662426181195,1.322,ok
+"R cellPCA, authors' code (reference)",20,2.0,1018,12.691184780624713,0.847,ok
+"R cellPCA, authors' code (reference)",20,2.0,1019,11.477954906870325,1.171,ok
+"R cellPCA, authors' code (reference)",20,2.0,1020,12.086784414068019,1.292,ok
+"R cellPCA, authors' code (reference)",20,2.0,1021,12.122762405801092,1.13,ok
+"R cellPCA, authors' code (reference)",20,2.0,1022,11.871893957484485,1.385,ok
+"R cellPCA, authors' code (reference)",20,2.0,1023,12.866863119738321,0.993,ok
+"R cellPCA, authors' code (reference)",20,2.0,1024,6.094083792886493,1.508,ok
+"R cellPCA, authors' code (reference)",200,2.0,1010,5.753817229499727,4.752,ok
+"R cellPCA, authors' code (reference)",200,2.0,1011,6.15492511659291,4.506,ok
+"R cellPCA, authors' code (reference)",200,2.0,1012,6.779744149433808,4.825,ok
+"R cellPCA, authors' code (reference)",200,2.0,1013,6.079104434646819,5.356,ok
+"R cellPCA, authors' code (reference)",200,2.0,1014,7.469575906726768,5.08,ok
+"R cellPCA, authors' code (reference)",200,2.0,1015,5.954514730421744,5.054,ok
+"R cellPCA, authors' code (reference)",200,2.0,1016,6.661626859657671,4.607,ok
+"R cellPCA, authors' code (reference)",200,2.0,1017,6.6819980402896375,4.44,ok
+"R cellPCA, authors' code (reference)",200,2.0,1018,5.871363068988759,4.455,ok
+"R cellPCA, authors' code (reference)",200,2.0,1019,7.333183755751596,5.298,ok
+"R cellPCA, authors' code (reference)",200,2.0,1020,6.484279801552213,5.416,ok
+"R cellPCA, authors' code (reference)",200,2.0,1021,7.089419051669601,5.695,ok
+"R cellPCA, authors' code (reference)",200,2.0,1022,6.485962003028921,4.402,ok
+"R cellPCA, authors' code (reference)",200,2.0,1023,6.349666064842206,4.557,ok
+"R cellPCA, authors' code (reference)",200,2.0,1024,6.192299149254447,4.788,ok

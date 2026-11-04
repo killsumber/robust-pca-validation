@@ -1,0 +1,5 @@
+method,p,n_runs,median_now,ci95_lo,ci95_hi,fallback,within_ci
+PCA (scikit-learn),20,25,27.02,23.03,31.37,26.0,True
+PCP (dfm/pcp),20,25,10.09,9.85,11.99,10.7,True
+PCA (scikit-learn),200,25,16.32,16.0,17.1,16.6,True
+PCP (dfm/pcp),200,25,6.9,6.71,7.15,6.8,True

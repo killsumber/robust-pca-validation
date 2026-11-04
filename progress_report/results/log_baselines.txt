@@ -1,0 +1,37 @@
+﻿700 jobs, 10 workers
+20 {'method': 'PCA (scikit-learn)', 'p': 20, 'gamma': 0, 'seed': 1003, 'angle_deg': 3.2858519783458937, 'seconds': 0.001, 'status': 'ok'}
+40 {'method': 'PCP (dfm/pcp)', 'p': 20, 'gamma': 0, 'seed': 1015, 'angle_deg': 4.1456178414415525, 'seconds': 0.032, 'status': 'ok'}
+60 {'method': 'ROBPCA (RobPy)', 'p': 20, 'gamma': 0, 'seed': 1010, 'angle_deg': 3.3188498245067644, 'seconds': 0.15, 'status': 'ok'}
+80 {'method': 'ROBPCA (RobPy)', 'p': 20, 'gamma': 0, 'seed': 1016, 'angle_deg': 3.881225585622421, 'seconds': 0.188, 'status': 'ok'}
+100 {'method': 'PCA (scikit-learn)', 'p': 200, 'gamma': 0, 'seed': 1006, 'angle_deg': 3.2926280165383917, 'seconds': 0.003, 'status': 'ok'}
+120 {'method': 'PCA (scikit-learn)', 'p': 200, 'gamma': 0, 'seed': 1023, 'angle_deg': 2.9535675949598237, 'seconds': 0.005, 'status': 'ok'}
+140 {'method': 'PCP (dfm/pcp)', 'p': 200, 'gamma': 0, 'seed': 1013, 'angle_deg': 3.5852780018274704, 'seconds': 0.294, 'status': 'ok'}
+160 {'method': 'ROBPCA (RobPy)', 'p': 200, 'gamma': 0, 'seed': 1008, 'angle_deg': 3.6077876416102623, 'seconds': 0.155, 'status': 'ok'}
+180 {'method': 'Spherical PCA (RobPy)', 'p': 200, 'gamma': 0, 'seed': 1008, 'angle_deg': 4.8676967614918665, 'seconds': 0.008, 'status': 'ok'}
+200 {'method': 'PCA (scikit-learn)', 'p': 20, 'gamma': 2, 'seed': 1005, 'angle_deg': 7.290439549626712, 'seconds': 0.001, 'status': 'ok'}
+220 {'method': 'PCA (scikit-learn)', 'p': 20, 'gamma': 2, 'seed': 1023, 'angle_deg': 14.715792140330565, 'seconds': 0.001, 'status': 'ok'}
+240 {'method': 'PCP (dfm/pcp)', 'p': 20, 'gamma': 2, 'seed': 1014, 'angle_deg': 8.038671594424736, 'seconds': 0.026, 'status': 'ok'}
+260 {'method': 'ROBPCA (RobPy)', 'p': 20, 'gamma': 2, 'seed': 1008, 'angle_deg': 12.511572413944167, 'seconds': 0.174, 'status': 'ok'}
+280 {'method': 'Spherical PCA (RobPy)', 'p': 20, 'gamma': 2, 'seed': 1012, 'angle_deg': 14.198394597331626, 'seconds': 0.001, 'status': 'ok'}
+300 {'method': 'PCA (scikit-learn)', 'p': 200, 'gamma': 2, 'seed': 1007, 'angle_deg': 9.104909405690782, 'seconds': 0.004, 'status': 'ok'}
+320 {'method': 'PCA (scikit-learn)', 'p': 200, 'gamma': 2, 'seed': 1024, 'angle_deg': 8.379994701058843, 'seconds': 0.005, 'status': 'ok'}
+340 {'method': 'PCP (dfm/pcp)', 'p': 200, 'gamma': 2, 'seed': 1016, 'angle_deg': 7.2801991680078935, 'seconds': 0.365, 'status': 'ok'}
+360 {'method': 'ROBPCA (RobPy)', 'p': 200, 'gamma': 2, 'seed': 1009, 'angle_deg': 8.803769978889163, 'seconds': 0.251, 'status': 'ok'}
+380 {'method': 'Spherical PCA (RobPy)', 'p': 200, 'gamma': 2, 'seed': 1010, 'angle_deg': 8.436715755223338, 'seconds': 0.006, 'status': 'ok'}
+400 {'method': 'ROBPCA (RobPy)', 'p': 200, 'gamma': 2, 'seed': 1024, 'angle_deg': 9.969643734788319, 'seconds': 0.222, 'status': 'ok'}
+420 {'method': 'Spherical PCA (RobPy)', 'p': 20, 'gamma': 4, 'seed': 1003, 'angle_deg': 19.749221117913933, 'seconds': 0.001, 'status': 'ok'}
+440 {'method': 'Spherical PCA (RobPy)', 'p': 20, 'gamma': 4, 'seed': 1021, 'angle_deg': 21.126536445806522, 'seconds': 0.001, 'status': 'ok'}
+460 {'method': 'ROBPCA (RobPy)', 'p': 200, 'gamma': 4, 'seed': 1012, 'angle_deg': 16.221044006435086, 'seconds': 0.163, 'status': 'ok'}
+480 {'method': 'Spherical PCA (RobPy)', 'p': 200, 'gamma': 4, 'seed': 1009, 'angle_deg': 15.516441934300056, 'seconds': 0.006, 'status': 'ok'}
+500 {'method': 'Spherical PCA (RobPy)', 'p': 200, 'gamma': 4, 'seed': 1021, 'angle_deg': 16.849285640319064, 'seconds': 0.006, 'status': 'ok'}
+520 {'method': 'PCA (scikit-learn)', 'p': 20, 'gamma': 6, 'seed': 1024, 'angle_deg': 35.36413349214077, 'seconds': 0.001, 'status': 'ok'}
+540 {'method': 'PCP (dfm/pcp)', 'p': 20, 'gamma': 6, 'seed': 1012, 'angle_deg': 13.330228397058987, 'seconds': 0.046, 'status': 'ok'}
+560 {'method': 'ROBPCA (RobPy)', 'p': 20, 'gamma': 6, 'seed': 1009, 'angle_deg': 47.79814790200088, 'seconds': 0.186, 'status': 'ok'}
+580 {'method': 'Spherical PCA (RobPy)', 'p': 20, 'gamma': 6, 'seed': 1012, 'angle_deg': 51.23984221137181, 'seconds': 0.001, 'status': 'ok'}
+600 {'method': 'ROBPCA (RobPy)', 'p': 20, 'gamma': 6, 'seed': 1019, 'angle_deg': 37.50962566124442, 'seconds': 0.182, 'status': 'ok'}
+620 {'method': 'PCA (scikit-learn)', 'p': 200, 'gamma': 6, 'seed': 1021, 'angle_deg': 24.8473273115201, 'seconds': 0.004, 'status': 'ok'}
+640 {'method': 'PCP (dfm/pcp)', 'p': 200, 'gamma': 6, 'seed': 1010, 'angle_deg': 6.706518974298184, 'seconds': 0.433, 'status': 'ok'}
+660 {'method': 'ROBPCA (RobPy)', 'p': 200, 'gamma': 6, 'seed': 1009, 'angle_deg': 24.29628148071646, 'seconds': 0.178, 'status': 'ok'}
+680 {'method': 'Spherical PCA (RobPy)', 'p': 200, 'gamma': 6, 'seed': 1010, 'angle_deg': 22.288434873968654, 'seconds': 0.014, 'status': 'ok'}
+700 {'method': 'ROBPCA (RobPy)', 'p': 200, 'gamma': 6, 'seed': 1024, 'angle_deg': 25.47432354915423, 'seconds': 0.19, 'status': 'ok'}
+done

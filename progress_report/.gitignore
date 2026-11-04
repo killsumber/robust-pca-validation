@@ -1,0 +1,14 @@
+# Python environment and caches (recreate with: pip install -r requirements.txt)
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# dfm/pcp pcp.py: licence not verified; downloaded on first use with sha256 check (adapters/pcp_dfm.py)
+vendor/pcp_dfm.py
+
+# Authors' cellPCA R code: no licence statement, do not redistribute (see VERSIONS.md)
+vendor/r_cellpca_download/
+
+# Office lock files
+~$*

@@ -1,0 +1,4 @@
+﻿40 jobs, 10 workers
+20 {'method': 'DDC->ROBPCA (RobPy)', 'p': 20, 'gamma': 6.0, 'seed': 1002, 'angle_deg': 6.509682234738691, 'seconds': 0.696, 'status': 'ok'}
+40 {'method': 'DDC->ROBPCA (RobPy)', 'p': 200, 'gamma': 6.0, 'seed': 1005, 'angle_deg': 47.679825763004345, 'seconds': 48.007, 'status': 'ok'}
+done

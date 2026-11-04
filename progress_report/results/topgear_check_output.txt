@@ -1,0 +1,14 @@
+﻿ 
+ The final data set we will analyze has 296 rows and 11 columns.
+ 
+TopGear raw dim: 297 32 
+numeric columns in raw data: 12  missing cells among them: 108 
+remTG dim: 296 11 
+ 
+ The final data set we will analyze has 296 rows and 11 columns.
+ 
+MacroPCA seconds: 0.2 
+cutoffOD: 1.737869 
+cutoffSD: 3.034854 
+flagged cells: 126 
+cellWise version: 2.5.7 
